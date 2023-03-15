@@ -98,3 +98,8 @@ Contact - students@allinopensource.org
 - Name: Jeremiah Albert (Jerry) Ortega
 - School: University of California, Los Angeles (UCLA)
 - Favorite Quote: “No matter how difficult the challenge is, always stay positive and believe in yourself." - Kobe Bryant
+---
+- Name: Suraj Bhattarai
+- School: IOE Purwanchal Campus, Dharan
+- Favorite Quote: "Community contributions drives me with long-lasting stream of energy." - Self Quote
+---
